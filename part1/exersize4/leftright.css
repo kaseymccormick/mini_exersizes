@@ -1,1 +1,29 @@
-p{color:red;}
+.pagenav{
+  width:20%;
+}
+
+.arrow{
+  padding: 5px 15px;
+  margin: 0px;
+  border: 1px solid #ccc;
+  float: left;
+  margin-left: 10px;
+}
+
+.gray{
+  color:#ccc;
+}
+
+.rotate{
+  -webkit-transform: matrix(-1,0.000,-0.000,-1,0,0);
+  -moz-transform: matrix(-1,0.000,-0.000,-1,0px,0px);
+  -ms-transform: matrix(-1,0.000,-0.000,-1,0,0);
+  -o-transform: matrix(-1,0.000,-0.000,-1,0,0);
+  transform: matrix(-1,0.000,-0.000,-1,0,0);
+}
+
+p{
+  font-size: 16px;
+  padding: 0px;
+  margin: 0px;
+}

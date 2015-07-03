@@ -1,1 +1,20 @@
-p{color:red;}
+DO THE BORDER BOX FIX THING
+.summary{
+  border-right: solid 1px #c1c1c1;
+  float: left;
+  width: 33%;
+  padding-left: 10px;
+}
+
+img{
+  
+}
+
+h2{
+  
+}
+  
+p{
+  
+} 
+ 

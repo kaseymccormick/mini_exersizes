@@ -1,1 +1,37 @@
-p{color:red;}
+
+
+h2 {
+  padding: 0px;
+  margin: 0px;
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+h4{
+  color: #BAB6B6;
+  font-weight: lighter;
+  margin: 0px;
+  font-size: 10px;
+  padding-top: 8px;
+}
+
+span{
+  color:#9D2D2B;
+}
+
+p{
+  padding: 0px;
+  margin: 0px;
+  font-size: 15px;
+  width: 75%;
+}
+
+img{
+  float:right;
+}
+
+.definition{
+  margin: 0px;
+  padding: 0px;
+  width: 75%;
+}

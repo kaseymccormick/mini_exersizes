@@ -1,1 +1,36 @@
-p{color:red;}
+body{
+  font-family: helvetica;
+  width: 60%;
+  margin: 0px auto;
+  text-align:center;
+}
+
+h1 {
+  color:#62B0E6;
+  font-weight: lighter;
+  font-size: 38px;
+  margin-bottom: 6px;
+}
+
+h2{
+  font-weight: lighter;
+  color:#989797;
+  font-size: 19px;
+  width: 80%;
+  margin: 0px auto;
+}
+
+a{
+  background-color:#60ADE3;
+  color:white;
+  text-decoration:none;
+  border:1px solid #478CBC;
+  border-radius:5px;
+  padding: 8px 24px;
+  font-weight:bold;
+  font-size: 14px;
+}
+
+.button{
+  padding-top: 40px;
+}

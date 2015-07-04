@@ -1,1 +1,40 @@
-p{color:red;}
+.container{
+  background-color:#3A5D8F;
+  width: 35%;
+  height: 70px;
+  color:white;
+  font-family:helvetica;
+}
+
+.email{
+
+}
+
+h1{
+  font-size:12px;
+}
+
+.inputbox{
+  width:40%;
+  border:solid 1px black;
+  background-color:white;
+  height:20px;
+}
+
+.subtext{
+}
+
+p{
+  font-size:10px;
+}
+
+.login a{
+  color: white;
+  text-decoration: none;
+  padding: 4px 10px;
+  background-color: #607CA5;
+  font-size: 14px;
+  border: 1px solid black;
+}
+
+ 

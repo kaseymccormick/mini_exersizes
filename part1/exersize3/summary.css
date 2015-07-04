@@ -1,20 +1,37 @@
-DO THE BORDER BOX FIX THING
-.summary{
-  border-right: solid 1px #c1c1c1;
-  float: left;
-  width: 33%;
-  padding-left: 10px;
+html {
+  box-sizing: border-box;
 }
 
-img{
-  
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+.collection{
+  width:55%;
+}
+
+.center{
+  width:31%;
+  float:left;
+}
+
+.summary{
+  padding-left: 7px;
+  width: 90%;
+  margin: 0px auto;
+}
+
+.border{
+  border-right: solid 1px #c1c1c1;
 }
 
 h2{
-  
+  font-size: 16px;
+  margin-top: 7px;
+  margin-bottom: -10px;
 }
   
 p{
+  font-size:14px;
   
 } 
  

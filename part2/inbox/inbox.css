@@ -1,1 +1,69 @@
-p{color:red;}
+html{
+  padding:0px;
+  margin:0px;
+}
+
+.inbox {
+  font-family: arial;
+  width:35%;
+}
+
+.colorbar{
+  background-color: #D0584C;
+  width: 5px;
+  height: 22px;
+  display: inline-block;
+  float:left;
+  margin-left: 9px;
+  
+}
+
+.arrow{
+  width: 10%;
+  float: left;
+  position:relative;
+  top: 24px;
+  left: 25px;
+}
+
+.arrow p{
+  padding:0px;
+  margin:0px;
+  color:#5F5F5F;
+}
+
+.folders{
+  float:left;
+}
+
+.folders h1{
+  color: #D0584C;
+  font-size:16px;
+  margin-top: 0px;
+}
+
+.folders ul{
+  list-style-type:none;
+}
+
+.options{
+  position: relative;
+  top: -10px;
+  left: -40px;
+}
+
+.buckets{
+  margin-left: -22px;
+}
+
+.buckets li{
+  line-height:1.5;
+}
+
+em{
+  background-color: #EEEEEE;
+  font-style: normal;
+  position: relative;
+  left: -32px;
+  padding: 3px 55px 3px 34px;
+}

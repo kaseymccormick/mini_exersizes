@@ -1,1 +1,50 @@
-p{color:red;}
+body{
+  font-family: arial;
+}
+
+.retweet{
+  width: 50%;
+  padding-left: 35px;
+  float:left;
+}
+
+.recycle{
+  background-image:url("recycle.png");
+  background-repeat: no-repeat;
+  width:18px;
+  height:18px;
+  float:left;
+  padding-right: 5px;
+}
+
+h1{
+  font-size: 14px;
+  margin-top: 1px;
+  font-weight:lighter;
+}
+
+p{
+  position: relative;
+  left: 24px;
+  font-size:14px;
+  color:#8A99A4; 
+  width: 70%;
+  margin-top: -4px;
+  line-height:1.2;
+}
+
+.profilepic img {
+  width: 25px;
+  position: relative;
+  left: 25px;
+  top: -8px;
+}
+
+.date{
+  display: inline;
+  position: relative;
+  left: -105px;
+}
+.date p{
+  font-size:12px;
+}

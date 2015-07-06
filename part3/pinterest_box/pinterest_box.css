@@ -1,3 +1,97 @@
-.pushpin{
-  width:11px;
+.example {
+  display: inline;
+  float: left;
+  margin-right: 33px;
+}
+
+.table{
+  background-color: #E9E9E9;
+  width:22%;
+  height:100%;
+  float:left;
+}
+
+.card{
+  font-family: arial;
+  background-color: white;
+  border: solid 1px #DACCCC;
+  border-radius: 10px;
+  width: 95%;
+  margin: 4px auto;
+  display: block;
+}
+
+.content{
+  margin: 12px 12px;
+}
+
+h1{
+  color:#737373;
+  font-size:14px;
+}
+
+.hero{
+  margin-bottom: -21px;
+}
+
+.hero img{
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+}
+
+.banner {
+  background-color: rgb(117, 115, 107);
+  width: 23%;
+  height: 21px;
+  opacity: 0.9;
+  position: relative;
+  top: -30px;
+}
+
+.count{
+  padding-top: 2px;
+  margin-left: 8px;
+}
+
+.count img{
+  float:left;
+  border:none;
+}
+
+.count h2{
+  text-shadow: 2px 2px #0D0C0C;
+  float: left;
+  display: inline;
+  padding: 0px;
+  margin: 0px;
+  font-size: 14px;
+  font-weight: lighter;
+  color: white;
+  
+}
+
+.clear{
+  clear:both;
+}
+
+.snipets img {
+  width: 31%;
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+}
+
+.button{
+  color: #5F5F5F;
+  border:solid 1px #ccc;
+  border-radius:3px;
+
+  background-color: #F2F2F2;
+  background-image: -webkit-linear-gradient(top, #FEFEFE, #F2F2F2);
+  background-image:         linear-gradient(to bottom, #F2F2F2, #FEFEFE);
+}
+  
+h2{
+  margin: 8px 94px;
+  display: block;
+  font-size:12px;
 }

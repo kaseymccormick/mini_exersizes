@@ -1,1 +1,33 @@
-p{color:red;}
+#example img {
+    width: 80%;
+}
+
+ul{
+  list-style-image:url("icon-check.svg");
+}
+
+.list{
+  line-height: 2.5;
+  color: #B2ACAC;
+  font-family: arial;
+  font-style: italic;
+  font-size: 14px;
+  display:inline;
+  width:17%;
+}
+
+.list li{
+  line-height:2.5;
+}
+
+.left{
+  float:left;
+}
+
+.right{
+  float:right;
+}
+
+img{
+  width: 45%;
+}
